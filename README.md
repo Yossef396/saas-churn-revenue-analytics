@@ -14,4 +14,4 @@ This project provides an end-to-end audit of recurring revenue risk, customer ch
 
 ## Project Deliverables
 * **Interactive Model:** Download `SaaS_Revenue_Retention_&_Churn_Model.xlsx` to explore the full dashboard, pivot tables, and dynamic risk logic.
-* **Executive Report:** Open `SaaS_Churn_Risk_Audit_Executive_Report.pdf` for complete methodology, formulas, and actionable strategic recommendations
+* **Executive Report:** Open `SaaS_Churn_Risk_Audit_Executive_Rep.pdf` for complete methodology, formulas, and actionable strategic recommendations
