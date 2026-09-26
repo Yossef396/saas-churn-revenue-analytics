@@ -2,7 +2,7 @@
 # SaaS Revenue Retention & Churn Risk Analytics Audit
 
 ## Executive Dashboard
-![SaaS Dashboard](dashboard.png)
+![SaaS Dashboard](Executive_Dashboard_Overview.png)
 
 ## Overview
 This project provides an end-to-end audit of recurring revenue risk, customer churn metrics, and account health exposure for a SaaS business model. The interactive model identifies key revenue loss drivers and categorizes accounts into distinct churn risk tiers.
