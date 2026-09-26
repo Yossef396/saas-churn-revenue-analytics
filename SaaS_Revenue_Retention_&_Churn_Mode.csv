@@ -1,0 +1,18 @@
+Sum of Monthly_Revenue,Risk_Level,,,
+Industry,CRITICAL RISK,HEALTHY,MODERATE RISK,Grand Total
+E-Commerce,"$129,455.55","$433,512.00","$452,178.22","$1,015,145.77"
+Enterprise Tech,"$68,167.46","$388,294.40","$463,395.07","$919,856.93"
+Fintech,"$105,929.92","$292,586.64","$418,197.14","$816,713.70"
+Healthcare,"$168,865.98","$386,147.21","$429,587.90","$984,601.09"
+Logistics,"$82,733.87","$385,084.32","$335,338.23","$803,156.42"
+Grand Total,"$555,152.78","$1,885,624.57","$2,098,696.56","$4,539,473.91"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Risk_Level,Average of Support_Tickets_30D,,,
+CRITICAL RISK,14.4,,,
+HEALTHY,8.0,,,
+MODERATE RISK,8.6,,,
+Grand Total,9.0,,,
