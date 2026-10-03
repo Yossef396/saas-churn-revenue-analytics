@@ -12,6 +12,4 @@ This project provides an end-to-end audit of recurring revenue risk, customer ch
 * **Risk Scorecard:** Standardized risk metrics based on customer support ticket volume and contract status.
 * **Cohort & LTV Analysis:** Evaluated account tenure and lifetime value patterns to identify drop-off points.
 
-## Project Deliverables
-* **Interactive Model:** Download `SaaS_Revenue_Retention_&_Churn_Mode.csv` to explore the full dashboard, pivot tables, and dynamic risk logic.
-* **Executive Report:** Open `SaaS_Churn_Risk_Audit_Executive_Rep.pdf` for complete methodology, formulas, and actionable strategic recommendations
+
